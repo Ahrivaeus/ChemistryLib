@@ -185,14 +185,18 @@ namespace Chemistry.Atomic
 
 		#region Methods
 
+		/// <summary>
+		/// Queries the JArray containing element information via LINQ to return the specified information. This method indexes by atomic symbol arbitrarily.
+		/// </summary>
+		/// <param name="field">The data you wish to retrieve, by key. "ALL_CAPS" by default.</param>
+		/// <returns>A string containing the information you are querying for.</returns>
 		private string QueryTable(string field)
 		{
 			return TableHandler.periodicTable.Where(x => x["SYMBOL"].ToString().Equals(Symbol, StringComparison.CurrentCultureIgnoreCase)).Select(x => x[field].ToString()).FirstOrDefault();
 		}
 
 		/// <summary>
-		/// Queries the periodic table and unpacks the returned string containing multiple kvPairs.
-		/// Return format = string[unit, value]
+		/// Queries the periodic table and unpacks the returned string containing multiple kvPairs into a Measurement object, which consists of Value and Unit.
 		/// </summary>
 		/// <param name="field">The field you want from the periodic table.</param>
 		/// <returns>string[unit, value]</returns>
@@ -208,6 +212,7 @@ namespace Chemistry.Atomic
 
 		#region Overrides
 
+		//This is temporary. There's probably a better to-string format I could use for this, but I wanted to be able to print something for testing reasons.
 		public override string ToString()
 		{
 			return ("Element: " + Name +
