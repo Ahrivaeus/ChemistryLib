@@ -1,0 +1,17 @@
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\TestApp.exe.config
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\TestApp.exe
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\TestApp.pdb
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\Chemistry.dll
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\EllisC_CIO.dll
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\Chemistry.pdb
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\EllisC_CIO.pdb
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\EllisC_CIO.xml
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\EllisC_CIO.dll.config
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\obj\Debug\TestApp.exe
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Converter\obj\Debug\TestApp.pdb

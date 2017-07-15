@@ -1,0 +1,24 @@
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\bin\Debug\Chemistry.dll
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\bin\Debug\Chemistry.pdb
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.Properties.Resources.resources
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.csproj.GenerateResource.Cache
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.dll
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.pdb
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\# - Libraries\Chemistry\Chemistry.dll
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\# - Libraries\Chemistry\Chemistry.pdb
+C:\Users\Ahrivaeus\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.csprojResolveAssemblyReference.cache
+C:\Users\royal\OneDrive\VisualStudioWorkspace\# - Libraries\Chemistry\Chemistry.dll
+C:\Users\royal\OneDrive\VisualStudioWorkspace\# - Libraries\Chemistry\Chemistry.pdb
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.csprojResolveAssemblyReference.cache
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.Properties.Resources.resources
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.csproj.GenerateResource.Cache
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.dll
+C:\Users\royal\OneDrive\VisualStudioWorkspace\Chemistry\Chemistry\obj\Debug\Chemistry.pdb
+C:\Users\royal\OneDrive\Documents\GitHub\ChemistryLib\Chemistry\obj\Debug\Chemistry.csprojResolveAssemblyReference.cache
+C:\Users\royal\OneDrive\Documents\GitHub\ChemistryLib\Chemistry\obj\Debug\Chemistry.Properties.Resources.resources
+C:\Users\royal\OneDrive\Documents\GitHub\ChemistryLib\Chemistry\obj\Debug\Chemistry.csproj.GenerateResource.Cache
+C:\Users\royal\OneDrive\Documents\GitHub\ChemistryLib\Chemistry\obj\Debug\Chemistry.dll
+C:\Users\royal\OneDrive\Documents\GitHub\ChemistryLib\Chemistry\obj\Debug\Chemistry.pdb
